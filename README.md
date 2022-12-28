@@ -1,17 +1,13 @@
 <h1 align="center">Hi! I'm Adrian Aji Septa</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h5 align="center">Frontend web, UIUX Designer, bachelor of informatics engineering.</h5>
 
 - im currently working on AmpuStudio [Company Profile](ampucreativestudio.com)
 
-- im currently learning **ReactJs**
+<h1>My Stat's</h1>
 
-- » All of my projects are available at [adrianaji.vercel.app](adrianaji.vercel.app)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianmz-genz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianmz-genz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- ¬ Ask me about **react**
-
-- « How to reach me **adrianji1945@gmail.com**
-
-- ¡ Fun fact **learn with pleasure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
