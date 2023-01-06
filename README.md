@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Adrian Aji Septa</h1>
 <h5 align="center">Frontend web, UIUX Designer, bachelor of informatics engineering.</h5>
 
-- im currently working on AmpuStudio <a href="https://www.ampukreatifstudio.com/">Company Profile</a> as FrontEnd Dev
+I am now an intern at AmpuStudio <a href="https://www.ampukreatifstudio.com/">Company Profile</a> as FrontEnd Dev.
 
 <h1>My Stat's</h1>
 
