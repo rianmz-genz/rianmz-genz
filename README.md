@@ -2,9 +2,9 @@
 <h5 align="center">Frontend web, UIUX Designer, bachelor of informatics engineering.</h5>
 
 <h1>My Stat's</h1>
-<!-- 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianmz-genz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianmz-genz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianmz-genz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I am now an intern at AmpuStudio <a href="https://www.ampukreatifstudio.com/">Company Profile</a> as FrontEnd Dev.
 <h3 align="left">Connect with me:</h3>
