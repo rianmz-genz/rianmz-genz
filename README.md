@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Adrian Aji Septa</h1> 
-<h5 align="center">Frontend web, UIUX Designer, bachelor of informatics engineering, Now I work as a frontend developer at PT Tristar Surya Gemilang.</h5>
+<h5 align="center">Fullstack Developer, UIUX Designer, bachelor of informatics engineering, Now I work as a frontend developer at PT Tristar Surya Gemilang.</h5>
 
 
 <h1>My Stat's</h1>
